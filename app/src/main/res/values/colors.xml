@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_main">#0A57CF</color>
+    <color name="button_background">#FFFFFF</color>
+    <color name="text_primary">#000000</color>
+    <color name="text_on_button">#000000</color>
+    <color name="icon_tint">#000000</color>
+    <color name="background_light">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="muted_text">#7A7A7A</color>
+    <color name="accent">#0A57CF</color>
+    <color name="light_gray">#E0E0E0</color>
+    <color name="search_field_bg">#F5F5F5</color>
+    <color name="pink">#FF4081</color>
+</resources>

@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Playlist maker</string>
+    <string name="search">Поиск</string>
+    <string name="medialibrary">Медиатека</string>
+    <string name="settings">Настройки</string>
+    <string name="settings_title">Настройки</string>
+    <string name="dark_theme">Тёмная тема</string>
+    <string name="share_app">Поделиться приложением</string>
+    <string name="support">Написать в поддержку</string>
+    <string name="user_agreement">Пользовательское соглашение</string>
+    <string name="back">Назад</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <string name="dev_group">ИВТ-221</string>
+
+    <string name="dev_email">kopytin.andriei@mail.ru</string>
+    <string name="email_theme">Сообщение разработчикам Playlist Maker</string>
+    <string name="email_text">Работает!!</string>
+
+    <string name="agreement_url">https://vivt.ru</string>
+
+
+
+    <string name="search_hint">Поиск</string>
+    <string name="clear_search">Очистить</string>
+    <string name="search_placeholder">Заглушка</string>
+    <string name="search_title">Поиск</string>
+    <string name="clear_search_desc">Очистить поиск</string>
+
+    <string name="server_error">Проблемы со связью</string>
+    <string name="refresh">Повторить</string>
+    <string name="nothing_found">Ничего не нашлось</string>
+    <string name="error_icon">Иконка ошибки</string>
+    <string name="empty_search_icon">Иконка пустого поиска</string>
+
+    <string name="history_title">Вы искали</string>
+    <string name="clear_history">Очистить историю</string>
+    <string name="connection_error">Загрузка не удалась. Проверьте подключение к интернету</string>
+
+    <string name="playback_time_start">00:00</string>
+    <string name="duration">Длительность</string>
+    <string name="album">Альбом</string>
+    <string name="year">Год</string>
+    <string name="genre">Жанр</string>
+    <string name="country">Страна</string>
+
+
+    <string name="new_playlist">Новый плейлист</string>
+    <string name="add_to_playlist">Добавить в плейлист</string>
+
+    <string name="playlist_name_hint">Название*</string>
+    <string name="playlist_description_hint">Описание</string>
+    <string name="create">Создать</string>
+
+    <string name="empty_media_library">Ваша медиатека пуста</string>
+
+    <string name="empty_playlists">Вы не создали\nни одного плейлиста</string>
+</resources>

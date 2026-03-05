@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="title_text_size">24sp</dimen>
+    <dimen name="padding_screen">16dp</dimen>
+    <dimen name="track_image_size">56dp</dimen>
+    <dimen name="item_vertical_padding">12dp</dimen>
+    <dimen name="track_title_size">16sp</dimen>
+    <dimen name="track_subtitle_size">13sp</dimen>
+    <dimen name="corner_radius">8dp</dimen>
+    <dimen name="corner_radius_8">8dp</dimen>
+</resources>
